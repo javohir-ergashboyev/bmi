@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887005896857",
+    "firebase_url": "https://final-project-13c2a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "final-project-13c2a",
+    "storage_bucket": "final-project-13c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887005896857:android:82c709b76045006dc3d808",
+        "android_client_info": {
+          "package_name": "com.example.oliymahadkurslar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887005896857-18v2vcifvqoga5bvmsg955a5er9j42e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKs_1NgAsomkbKmdlE7UdyWmAr6_iNPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887005896857-18v2vcifvqoga5bvmsg955a5er9j42e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
